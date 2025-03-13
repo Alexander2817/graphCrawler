@@ -1,6 +1,6 @@
 # Graph Crawler
 
-This program is a graph crawler that performs a breadth-first search (BFS) from a starting node. It uses `libcurl` to request data from an API and RapidJSON to parse JSON data. The program prints the nodes reachable from the start node within a given depth.
+This program is a graph crawler that performs a breadth-first search (BFS) from a starting node. It uses libcurl to request data from an API and RapidJSON to parse JSON data. The program prints the nodes reachable from the start node within a given depth.
 
 ## Requirements
 
