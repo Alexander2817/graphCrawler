@@ -41,5 +41,6 @@ compilation command. Assuming the cloned folder is in your home directory:
    ```bash
    g++ -Wall -std=c++11 -I ./rapidjson/include graph_crawler.cpp -o graph_crawler -lcurl
    ```
+4. To run more tests, edit the nodes or the depth in the graph_script.sh file.
 
    
