@@ -30,8 +30,10 @@ compilation command. Assuming the cloned folder is in your home directory:
 ## Compilation
 
 1. Clone the repository or download the `graph_crawler.cpp`, `Makefile`, and `README.md` files.
+   
+2. Update the Makefile RAPIDJSON_PATH to where you cloned rapidjson into.
 
-2. To compile the program, run the following command in the terminal:
+3. To compile the program, run the following command in the terminal:
    ```bash
    make
    ```
