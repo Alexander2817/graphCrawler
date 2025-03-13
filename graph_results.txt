@@ -1,0 +1,15 @@
+Running Depth 1...
+
+Time taken: 182ms
+
+Running Depth 2...
+
+
+Time taken: 7036ms
+
+Running Depth 3...
+
+
+
+Time taken: 143045ms
+
